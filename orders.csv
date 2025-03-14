@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Quantity,Price,OrderDate
+101,1,Laptop,2,15000,2024-11-15
+102,2,Smartphone,3,8000,2024-09-20
+103,3,Tablet,1,6000,2024-10-01
+104,4,Headphones,4,1500,2025-12-25
+105,5,Camera,2,5000,2024-08-10
+106,6,Monitor,1,3000,2025-11-05
+107,7,Keyboard,5,500,2024-07-15
+108,8,Mouse,3,200,2025-10-30
+109,9,Speaker,2,1000,2024-06-20
+110,10,Game Console,1,4000,2024-12-01
